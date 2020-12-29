@@ -4,11 +4,11 @@
   font-family: Arial;
 }
 
-/* top navbar */
+
 .topnav {
   background-color: #9900FF;
   overflow: hidden;
-} /*add color to top bground */
+}
 
 .topnav img {
   height: 30px;
@@ -28,7 +28,7 @@
 } /* style links inside nav bar */
 
 .topnav a:hover {
-  color: #ADD8e6;
+  background-color: purple;
 } /* change color when hover */
 
 /* elements on left side */
