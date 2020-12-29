@@ -70,7 +70,7 @@
 /* elements on right side */
 .rightThings{
   float: right;
-  width: 50%;
+  width: 50vw;
   text-align: center;
 }
 
