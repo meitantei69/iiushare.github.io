@@ -8,19 +8,23 @@
 .topnav {
   background-color: #9900FF;
   overflow: hidden;
+  margin: auto;
+  height: auto;
+  max-height:8%;
 }
 
 .topnav img {
-  height: 30px;
-  width: 100px;
-  padding-top: 10px;
+  padding-top: 0.5vmax;
+  padding-left: 0;
+  width: 10vw;
+  height: auto;
 }
 
 .topnav a {
   float: right;
   color: white;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 1.3vw;
   padding: 15px 15px;
   word-wrap: normal;
   display: inline-block;
@@ -33,7 +37,7 @@
 
 /* elements on left side */
 .leftThings {
-  width: 50%;
+  width: 50vw;
   text-align: center;
   float: left;
 }
@@ -43,7 +47,7 @@
   text-align: left;
   margin-top: 3%;
   margin-bottom: 5px;
-  font-size: 60px;
+  font-size: 4vw;
 }
 
 .leftThings img {
@@ -58,7 +62,7 @@
   margin-top: 5px;
   color: grey;
   font-style: italic;
-  font-size: 13px;
+  font-size: 1.5vw;
   text-align: left;
   margin-left: 25%;
 }
@@ -83,16 +87,20 @@
   background-position: 3px;
   padding-left: 23px;
   border-radius: 5px 5px 5px 5px;
+  font-size: 1.5vw;
 }
 
 .checkboxes{
   text-align: left;
   margin-top: 10px;
   margin-left: 35px;
+  font-size: 3vw;
+  font-size: 1.3vmax;
 }
 
 .checkboxes input {
-  margin-left: 50px;
+  margin-left: 1vmax;
+  margin-top: auto;
 }
 
 .rightThings p {
@@ -107,7 +115,7 @@ mark {
 
 .recommendations {
   width: 90%;
-  height: 65%;
+  height: auto;
   border: 3px solid gray;
   margin: auto;
   margin-top: 5%;
@@ -130,8 +138,9 @@ mark {
 
 
 .description {
-  margin-top: -30px;
+  margin-top: 0.1vh;
  text-align: center;
+  font-size: 1vw;
 }
 
 .detail {
@@ -141,6 +150,7 @@ mark {
   text-align: left;
 }
 
+/* modal for first item in recommendations */
 .modal {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
@@ -164,6 +174,22 @@ mark {
   width: 50%;
 }
 
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* modal for second item in recommendations */
 .modal1 {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
@@ -185,21 +211,6 @@ mark {
   padding: 20px;
   border: 1px solid #888;
   width: 50%;
-}
-
-/* The Close Button */
-.close {
-  color: #aaaaaa;
-  float: right;
-  font-size: 28px;
-  font-weight: bold;
-}
-
-.close:hover,
-.close:focus {
-  color: #000;
-  text-decoration: none;
-  cursor: pointer;
 }
 
 .close1 {
