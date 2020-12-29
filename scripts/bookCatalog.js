@@ -1,8 +1,3 @@
-function modeChange() {
-  var element = document.body;
-  element.classList.toggle("dark-mode");
-}
-
 tbutton = document.getElementById("top");
 
 window.onscroll = function() {scrollWindow()};
