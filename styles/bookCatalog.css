@@ -4,38 +4,32 @@
   font-family: Arial;
 }
 
-#header img[src="/images/Logo.png"] {
-  padding: 0;
-}
-#header {
+
+.topnav {
   background-color: #9900FF;
-  position: fixed;
-  width: 100%;
-  z-index: 2;
+  overflow: hidden;
 }
 
-#nav {
-  position: fixed;
-  top: 5;
-  right: 10;
-  text-color: white;
-  font-size: 14;
-  word-spacing: 5px;
-  z-index: 2;
+.topnav img {
+  height: 30px;
+  width: 100px;
+  padding-top: 10px;
 }
 
-a:link {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-  border-left: solid 1px #fff;
-}
-
-a:active {
+.topnav a {
+  float: right;
   color: white;
-  background-color: transparent;
   text-decoration: none;
-}
+  font-size: 20px;
+  padding: 15px 15px;
+  word-wrap: normal;
+  display: inline-block;
+  border-left:white 2px solid;
+} /* style links inside nav bar */
+
+.topnav a:hover {
+  background-color: purple;
+} /* change color when hover */
 
 #header2 {
   text-align: center;
