@@ -34,8 +34,8 @@
 #feedback  {
   text-align: center;
   background: #DDDDDD;
-  margin-top: 36px;
-  top: 28;
+  margin-top: 0;
+  padding: 20;
   z-index: 1;
 }
 
