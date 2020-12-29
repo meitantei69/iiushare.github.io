@@ -40,9 +40,9 @@ body{
 }
 
 .leftThings img {
-  margin: auto;
   margin-bottom: 0;
-  width: 55%;
+  margin: auto;
+  width: 60%;
   height: auto;
   display: block;
 }
