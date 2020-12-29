@@ -39,7 +39,10 @@
   z-index: 1;
 }
 
-
+#greetings {
+  text-align: center;
+  margin-top: auto;
+}
 
 #info {
   float: left;
