@@ -1,0 +1,66 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+#header img[src="Logo.png"] {
+  padding: 0;
+}
+#header {
+  background-color: #9900FF;
+  position: fixed;
+  width: 100%;
+}
+
+#nav {
+  position: fixed;
+  top: 5;
+  right: 10;
+  text-color: white;
+  font-size: 14;
+  word-spacing: 5px;
+}
+
+#nav a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+  border-left: solid 1px #fff;
+}
+
+#nav a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#title {
+  text-align: center;
+  background: #DDDDDD;
+  padding: 20;
+  position: relative;
+  top: 28;
+}
+
+.divider {
+  padding-top: 50px;
+}
+
+section {
+  top: 50px;
+  box-sizing: border-box;
+}
+
+.left {
+  border-top: 50px;
+  float: left;
+  width: 50%;
+}
+
+.content {
+  float: left;
+  padding-top: 30px;
+  width: 50%;
+}
