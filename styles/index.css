@@ -9,6 +9,12 @@ body{
   overflow: hidden;
 } /*add color to top bground */
 
+.topnav img {
+  height: 30px;
+  width: 100px;
+  padding-top: 10px;
+}
+
 .topnav a {
   float: right;
   color: white;
