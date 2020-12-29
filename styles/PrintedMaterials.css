@@ -4,6 +4,7 @@
   font-family: Arial;
 }
 
+
 .topnav {
   background-color: #9900FF;
   overflow: hidden;
@@ -29,6 +30,7 @@
 .topnav a:hover {
   background-color: purple;
 } /* change color when hover */
+
 
 #header2 {
   text-align: center;
