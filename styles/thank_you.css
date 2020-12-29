@@ -54,6 +54,10 @@
   font-size: 16px;
 }
 
+.fa {
+  padding: auto;
+  margin: auto;
+}
 .button {
   text-align: center;
 }
