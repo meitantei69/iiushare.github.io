@@ -8,19 +8,23 @@
 .topnav {
   background-color: #9900FF;
   overflow: hidden;
+  margin: auto;
+  height: auto;
+  max-height:8%;
 }
 
 .topnav img {
-  height: 30px;
-  width: 100px;
-  padding-top: 10px;
+  padding-top: 0.5vmax;
+  padding-left: 0;
+  width: 10vw;
+  height: auto;
 }
 
 .topnav a {
   float: right;
   color: white;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 1.3vw;
   padding: 15px 15px;
   word-wrap: normal;
   display: inline-block;
