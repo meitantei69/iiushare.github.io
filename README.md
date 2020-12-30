@@ -1,6 +1,6 @@
 # IIU SHARE PROJECT #
 IIU Share Project is a platform for students to give/sell and receive used books. 
-## INFO 2302 Section 2 ##  
+
 _Prepared by:_ 
 
 1. Hamidzhul Adzham bin Hamden (1625981)
