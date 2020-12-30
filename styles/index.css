@@ -138,6 +138,8 @@ mark {
   margin-top:0.1vh;
  text-align: center;
   font-size: 10%;
+  font-size: 15vw;
+  font-size:1vmax;
 }
 
 .detail {
