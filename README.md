@@ -24,4 +24,8 @@ IIU Share Project is a platform for students to give/sell and receive used books
 
 First Header | Second Header
 ------------ | -------------
-Hamidzhul Adzham<br />1625981 | Hompage, Navigation bar
+Hamidzhul Adzham<br />1625981 | Hompage, Navigation bar<br />Javascript event handlers for modal boxes in Homepage
+Khairin Nazifah<br />1629078 | Book catalogue page
+Wan Fathihul Akram<br />1914131 | FAQ Page
+Irfan Rifqi<br />1919045 | Feedback page, Thank you page
+Arief Iskandar Shaffei<br />2010047 | Printed Materials Catalog
