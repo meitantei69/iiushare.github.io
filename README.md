@@ -33,7 +33,7 @@ IIU Share Project is a platform for students to give/sell and receive used books
 
 
 Name | Contributions
------------- | -------------
+---- | -------------
 Hamidzhul Adzham<br />1625981 | Homepage, Navigation bar,<br />Javascript event handlers for modal boxes in Homepage
 Khairin Nazifah<br />1629078 | Book catalogue page,<br />Scroll back to top button,<br />Uploading 6 books in the catalogue
 Wan Fathihul Akram<br />1914131 | FAQ Page
@@ -47,7 +47,7 @@ Arief Iskandar Shaffei<br />2010047 | Printed Materials Catalog
    </summary>
 
 Web elements | Name | Use of third party resources and modifications (if any)  | Modifications (if any)
--------------------- | -------------------- | --------------------------- | --------------------------- 
+-------------| -----| -------------------------------------------------------- | ----------------------
 Icon for search box in Homepage | Hamidzhul Adzham | The icon used is taken from flaticon.com | The graphic was sized down
 Graphic in Homepage | Hamidzhul Adzham | The graphic is an image from cleanpng.com | None.
 Modal boxes in Homepage when clicked | Hamidzhul Adzham | The codes was taken from w3schools.com | The script and style was separated
