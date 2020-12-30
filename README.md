@@ -1,5 +1,6 @@
 # IIU SHARE PROJECT
-##INFO 2302 Section 2  _Prepared by:_ 
+##INFO 2302 Section 2  
+_Prepared by:_ 
 
 1. Hamidzhul Adzham bin Hamden (1625981)
 2. Khairin Nazifah binti Nasaruddin (1629078)
