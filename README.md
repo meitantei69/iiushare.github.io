@@ -16,5 +16,7 @@ IIU Share Project is a platform for students to give/sell and receive used books
 <p>   To utilize the platform, students who want to sell or donate reading materials have to send required information to iiushare@webtech.com. The information, which includes book/material title, description, price, contact and an image will be uploaded by the admins to the website. Students who wish to have certain books or other printed materials can browse and buy them by contacting the owner of the book from the contact information displayed in the website. In short, the platform serves as an online catalogue of used books as well as other printed materials which enables the students to sell and look for their desired reading materials.</p>
    </details>
 
-   ![Project Sitemap](/images/sitemap.png "IIU Share Project Sitemap")
-
+<details>
+<summary>Project Description</summary>
+   <p>![Project Sitemap](/images/sitemap.png "IIU Share Project Sitemap")</p>
+ </details>
