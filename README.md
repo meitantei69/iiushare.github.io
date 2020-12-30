@@ -38,7 +38,7 @@ Hamidzhul Adzham<br />1625981 | Homepage, Navigation bar,<br />Javascript event 
 Khairin Nazifah<br />1629078 | Book catalogue page,<br />Scroll back to top button,<br />Uploading 6 books in the catalogue
 Wan Fathihul Akram<br />1914131 | FAQ Page
 Irfan Rifqi<br />1919045 | Feedback page, Thank you page,<br />Submit feedback form with validation,<br />Javascript to confirm feedback submission
-Arief Iskandar Shaffei<br />2010047 | Printed Materials Catalog
+Arief Iskandar Shaffei<br />2010047 | Printed Materials catalogue page
 </details>
 
 <details>
