@@ -78,9 +78,9 @@ function seeMore5()
   }
   function seeMore6()
 {
-  var dots6= document.getElementById("dots4");
-  var moreText6= document.getElementById("more4");
-  var btnText6= document.getElementById("myBtn4");
+  var dots6= document.getElementById("dots6");
+  var moreText6= document.getElementById("more6");
+  var btnText6= document.getElementById("myBtn6");
   
   if(dots6.style.display === "none")
   {
