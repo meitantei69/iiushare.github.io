@@ -53,7 +53,21 @@ Graphic in FAQ page | faq.icon.png | The graphic is an image taken from freepik.
 
 <details>
 <summary>References</summary>
-<p>Eastman1. Cleanpng. Retrieved from 14 November 2020 from https://www.cleanpng.com/png-educational-technology-e-learning-sharable-content-601781/  </p>
+<p>Eastman1. Cleanpng. Retrieved from 14 November 2020 from https://www.cleanpng.com/png-educational-technology-e-learning-sharable-content-601781/  
+
+Freepik. Flaticon. Retrieved from 22 November 2020 from https://www.flaticon.com/free-icon/magnifying-glass_46389?term=magnifying%20glass&page=1&position=58&related_item_id=46389  
+
+Freepik. Freepik Vector. Retrieved 30 December 2020 from
+https://www.freepik.com/free-vector/website-faq-section-user-help-desk-customer-support-frequently-asked-questions-problem-solution-quiz-game-confused-man-cartoon-character_11667041.html  
+
+Font Awesome. (n.d.). Retrieved December 17, 2020, from https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself  
+
+Font Awesome 5 Introduction. (n.d.). Retrieved December 20, 2020, from https://www.w3schools.com/icons/fontawesome5_intro.asp  
+
+Hiclipart. (n.d.). Retrieved 29 November 2020 from https://www.hiclipart.com/free-transparent-background-png-clipart-csqjw  
+
+w3schools.com. Retrieved from 29 December 2020 from https://www.w3schools.com/howto/howto_css_modals.asp
+</p>
    
  
 
