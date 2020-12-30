@@ -12,21 +12,17 @@ IIU Share Project is a platform for students to give/sell and receive used books
 
 <details>
 <summary>
-  ### <strong><i>Project Description</i></strong> ###
+  <strong><i>Project Description</i></strong>
 </summary>
 <p>   The IIU Share Project is inspired by the problem of unused textbooks and printed materials being left around by IIUM students. Thus, this project is initiated to provide a platform for IIUM students to properly donate or sell their used reading materials to those who wanted them. Not only that, it also helps those who are looking for reading materials for their courses at a reasonable price or for free as it is a one stop center to look for used books and other printed materials. It is hoped that with the development of the platform, the problem would be solved and helped those who utilizes the platform.  </p>
 <p>   To utilize the platform, students who want to sell or donate reading materials have to send required information to iiushare@webtech.com. The information, which includes book/material title, description, price, contact and an image will be uploaded by the admins to the website. Students who wish to have certain books or other printed materials can browse and buy them by contacting the owner of the book from the contact information displayed in the website. In short, the platform serves as an online catalogue of used books as well as other printed materials which enables the students to sell and look for their desired reading materials.</p>
-</details>
 
-<details>
    <summary>
       <strong><i>Project Sitemap </i></strong>
    </summary>
    
 ![Project Sitemap](/images/sitemap.jpg "IIU Share Project Sitemap")
-</details>
 
-<details>
    <summary>
       <strong><i>Group Contributions</i></strong>
    </summary>
@@ -39,9 +35,7 @@ Khairin Nazifah<br />1629078 | Book catalogue page <br />Scroll back to top butt
 Wan Fathihul Akram<br />1914131 | FAQ Page
 Irfan Rifqi<br />1919045 | Feedback page, Thank you page
 Arief Iskandar Shaffei<br />2010047 | Printed Materials Catalog
-</details>
 
-<details>
    <summary>
       <strong><i>Use of Third Party Resources</i></strong>
    </summary>
@@ -57,9 +51,7 @@ Envelope icon in Feedback page | <i class="fas fa-envelope"></i> | The icon is t
 Home icon in Thank You page | <i class="fas fa-home"> | The icon is taken from Font Awesome toolkit css file | None.
 IIUM logo for website logo in  header | Khairin Nazifah | The graphic is taken from hiclipart.com | The graphic is resized to an appropriate size.
 Graphic in FAQ page | faq.icon.png | The graphic is an image taken from freepik.com | The graphic colour is edited to match the theme colour of the website.
-</details>
 
-<details>
    <summary>
       <strong><i>References</i></strong>
    </summary>
@@ -79,6 +71,8 @@ Hiclipart. (n.d.). Retrieved 29 November 2020 from https://www.hiclipart.com/fre
 
 w3schools.com. Retrieved from 29 December 2020 from https://www.w3schools.com/howto/howto_css_modals.asp
 </p>
+
+</details>
    
  
 
