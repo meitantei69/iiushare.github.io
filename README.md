@@ -51,4 +51,10 @@ IIUM logo for website logo in  header | Logo.png | The graphic is taken from hic
 Graphic in FAQ page | faq.icon.png | The graphic is an image taken from freepik.com | The graphic colour is edited to match the theme colour of the website.
 </details>
 
+<details>
+<summary>References</summary>
+<p>Eastman1. Cleanpng. Retrieved from 14 November 2020 from https://www.cleanpng.com/png-educational-technology-e-learning-sharable-content-601781/  </p>
+   
+ 
+
 
