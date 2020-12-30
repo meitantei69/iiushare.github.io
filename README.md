@@ -1,4 +1,4 @@
-# INFO 2302 Section 2 _(Group 1) #
+# INFO 2302 Section 2 _(Group 1)_ #
 
 ## IIU SHARE PROJECT ##
 IIU Share Project is a platform for students to give/sell and receive used books. 
