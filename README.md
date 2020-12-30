@@ -35,10 +35,10 @@ IIU Share Project is a platform for students to give/sell and receive used books
 Name | Contributions
 ---- | -------------
 Hamidzhul Adzham<br />1625981 | Homepage, Navigation bar,<br />Javascript event handlers for modal boxes in Homepage
-Khairin Nazifah<br />1629078 | Book catalogue page,<br />Javascript for 'scroll back to top' function for catalog pages,<br />Uploading 6 books in the Book catalogue
+Khairin Nazifah<br />1629078 | Book catalogue page,<br />Javascript for 'scroll back to top' function for catalogue pages,<br />Uploading 6 books in the Book catalogue
 Wan Fathihul Akram<br />1914131 | FAQ Page<br />Hyperlink to other page that related with questions
 Irfan Rifqi<br />1919045 | Feedback page, Thank you page,<br />Submit feedback form with validation,<br />Javascript to confirm feedback submission
-Arief Iskandar Shaffei<br />2010047 | Printed Materials catalogue page,<br />'Read More' javascript function for catalog pages
+Arief Iskandar Shaffei<br />2010047 | Printed Materials catalogue page,<br />'Read More' javascript function for catalogue pages
 </details>
 
 <details>
