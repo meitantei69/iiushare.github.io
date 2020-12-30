@@ -139,6 +139,8 @@ mark {
  text-align: center;
   font-size: 10px;
   font-size:1vmax;
+  line-height: 15px;
+  line-height: 2vmin;
 }
 
 .detail {
