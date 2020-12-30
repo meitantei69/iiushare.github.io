@@ -12,6 +12,7 @@ IIU Share Project is a platform for students to give/sell and receive used books
 
 <details>
    <summary>
+      
    <u>Project Description </u>
    </summary>
 <p>   The IIU Share Project is inspired by the problem of unused textbooks and printed materials being left around by IIUM students. Thus, this project is initiated to provide a platform for IIUM students to properly donate or sell their used reading materials to those who wanted them. Not only that, it also helps those who are looking for reading materials for their courses at a reasonable price or for free as it is a one stop center to look for used books and other printed materials. It is hoped that with the development of the platform, the problem would be solved and helped those who utilizes the platform.  </p>
