@@ -58,42 +58,6 @@ function seeMore3()
   }
 }
 
-function seeMore5()
-{
-  var dots5= document.getElementById("dots5");
-  var moreText5= document.getElementById("more5");
-  var btnText5= document.getElementById("myBtn5");
-  
-  if(dots5.style.display === "none")
-  {
-    dots5.style.display="inline";
-    btnText5.innerHTML="Read More";
-    moreText5.style.display="none";
-  }
-  else 
-  {
-    dots5.style.display="none";
-    btnText5.innerHTML="Read Less";
-    moreText5.style.display="inline";
-  }
-  function seeMore6()
-{
-  var dots6= document.getElementById("dots6");
-  var moreText6= document.getElementById("more6");
-  var btnText6= document.getElementById("myBtn6");
-  
-  if(dots6.style.display === "none")
-  {
-    dots6.style.display="inline";
-    btnText6.innerHTML="Read More";
-    moreText6.style.display="none";
-  }
-  else 
-  {
-    dots6.style.display="none";
-    btnText6.innerHTML="Read Less";
-    moreText6.style.display="inline";
-  }
   function seeMore4()
 {
   var dots4= document.getElementById("dots4");
