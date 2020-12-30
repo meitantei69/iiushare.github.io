@@ -1,4 +1,5 @@
 # IIU SHARE PROJECT #
+IIU Share Project is a platform for students to give/sell and receive used books. 
 ## INFO 2302 Section 2 ##  
 _Prepared by:_ 
 
@@ -7,8 +8,6 @@ _Prepared by:_
 3. Wan Fathihul Akram bin Wan Mansor (1914131)
 4. Irfan Rifqi bin Azmi (1919045)
 5. Arief Iskandar Shaffei bin Mohammad (2010047)  
-
-IIU Share Project is a platform for students to give/sell and receive used books.  
 
 <details>
 <summary>
