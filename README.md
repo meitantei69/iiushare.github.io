@@ -18,7 +18,6 @@ IIU Share Project is a platform for students to give/sell and receive used books
 
 <details>
 <summary>Project Sitemap</summary>
-      
-      ![Project Sitemap](/images/sitemap.png "IIU Share Project Sitemap")
-      
- </details>
+
+![Project Sitemap](/images/sitemap.png "IIU Share Project Sitemap")
+</details>
