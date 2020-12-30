@@ -132,14 +132,12 @@ mark {
   margin: 5%;
   display: inline-block;
   border: 2px solid black;
-
 }
 
 .description {
   margin-top:0.1vh;
  text-align: center;
   font-size: 10%;
-  font-size: 1.5vmin;
 }
 
 .detail {
