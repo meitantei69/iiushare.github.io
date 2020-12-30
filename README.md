@@ -2,7 +2,7 @@
 ## IIU SHARE PROJECT ##
 IIU Share Project is a platform for students to give/sell and receive used books. 
 
-_Prepared by:_ 
+### _Prepared by:_ ###
 
 1. Hamidzhul Adzham bin Hamden (1625981)
 2. Khairin Nazifah binti Nasaruddin (1629078)
