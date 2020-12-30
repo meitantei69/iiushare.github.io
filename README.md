@@ -10,7 +10,7 @@ IIU Share Project is a platform for students to give/sell and receive used books
 4. Irfan Rifqi bin Azmi (1919045)
 5. Arief Iskandar Shaffei bin Mohammad (2010047)  
 
-<details>
+#### <details> ####
 <summary>
    <strong><i>Project Description</i></strong>
 </summary>
