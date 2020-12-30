@@ -38,7 +38,7 @@ Hamidzhul Adzham<br />1625981 | Homepage, Navigation bar,<br />Javascript event 
 Khairin Nazifah<br />1629078 | Book catalogue page,<br />Scroll back to top button,<br />Uploading 6 books in the catalogue
 Wan Fathihul Akram<br />1914131 | FAQ Page
 Irfan Rifqi<br />1919045 | Feedback page, Thank you page,<br />Submit feedback form with validation,<br />Javascript to confirm feedback submission
-Arief Iskandar Shaffei<br />2010047 | Printed Materials catalogue page
+Arief Iskandar Shaffei<br />2010047 | Printed Materials catalogue page,<br />'Read More' javascript function
 </details>
 
 <details>
@@ -50,7 +50,7 @@ Web elements | Name | Use of third party resources and modifications (if any)  |
 -------------| -----| -------------------------------------------------------- | ----------------------
 Icon for search box in Homepage | Hamidzhul Adzham | The icon used is taken from flaticon.com | The graphic was sized down
 Graphic in Homepage | Hamidzhul Adzham | The graphic is an image from cleanpng.com | None.
-Modal boxes in Homepage when clicked | Hamidzhul Adzham | The codes was taken from w3schools.com | The script and style was separated
+Modal boxes in Homepage when items are clicked | Hamidzhul Adzham | The codes was taken from w3schools.com | The script and style was separated
 Phone icon in Feedback page | Irfan Rifqi | The icon is taken from Font Awesome toolkit css file | None. 
 Envelope icon in Feedback page | Irfan Rifqi | The icon is taken from Font Awesome toolkit css file | None.
 Home icon in Thank You page | Irfan Rifqi | The icon is taken from Font Awesome toolkit css file | None.
