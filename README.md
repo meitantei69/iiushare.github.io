@@ -31,7 +31,7 @@ IIU Share Project is a platform for students to give/sell and receive used books
       <strong><i>Group Contributions</i></strong>
    </summary>
 
-
+<p>Each member prepared the following pages and features;</p>
 Name | Contributions
 ---- | -------------
 Hamidzhul Adzham<br />1625981 | Homepage, Navigation bar,<br />Javascript event handlers for modal boxes in Homepage
