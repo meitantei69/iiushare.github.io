@@ -39,8 +39,8 @@ Arief Iskandar Shaffei<br />2010047 | Printed Materials Catalog
 <summary>Use of Third Party Resources</summary>
 
 
-Web elements | Name | Use of third party<br/>resources and<br/>modifications (if any)  | Modifications (if any)
----------------- | ----------------- | ----------------------- | --------------------------
+Web elements | Name | Use of third party resources and modifications (if any)  | Modifications (if any)
+-------------------- | ----------------- | --------------------------- | --------------------------
 Icon for search box in Homepage | Magnifying-glass.png | The icon used is taken from flaticon.com | The graphic was sized down
 Graphic in Homepage | image1.png | The graphic is an image from cleanpng.com | None.
 Modal boxes in Homepage when clicked | index.js | The codes was taken from w3schools.com | The script and style was separated
