@@ -69,8 +69,8 @@
 
 /* elements on right side */
 .rightThings{
-  float: right;
   width: 50vw;
+  float: right;
   text-align: center;
 }
 
