@@ -12,20 +12,24 @@ IIU Share Project is a platform for students to give/sell and receive used books
 
 <details>
    <summary>
-      <b>Project Description</b>
+      <b><u>Project Description</u></b>
    </summary>
 <p>   The IIU Share Project is inspired by the problem of unused textbooks and printed materials being left around by IIUM students. Thus, this project is initiated to provide a platform for IIUM students to properly donate or sell their used reading materials to those who wanted them. Not only that, it also helps those who are looking for reading materials for their courses at a reasonable price or for free as it is a one stop center to look for used books and other printed materials. It is hoped that with the development of the platform, the problem would be solved and helped those who utilizes the platform.  </p>
 <p>   To utilize the platform, students who want to sell or donate reading materials have to send required information to iiushare@webtech.com. The information, which includes book/material title, description, price, contact and an image will be uploaded by the admins to the website. Students who wish to have certain books or other printed materials can browse and buy them by contacting the owner of the book from the contact information displayed in the website. In short, the platform serves as an online catalogue of used books as well as other printed materials which enables the students to sell and look for their desired reading materials.</p>
 </details>
 
 <details>
-<summary><b>Project Sitemap</b></summary>
+   <summary>
+      <b><u>Project Sitemap</u></b>
+   </summary>
    
 ![Project Sitemap](/images/sitemap.jpg "IIU Share Project Sitemap")
 </details>
 
 <details>
-<summary>Group Contributions</summary>
+   <summary>
+      <b><u>Group Contributions</u></b>
+   </summary>
 
 
 First Header | Second Header
@@ -38,7 +42,9 @@ Arief Iskandar Shaffei<br />2010047 | Printed Materials Catalog
 </details>
 
 <details>
-<summary>Use of Third Party Resources</summary>
+   <summary>
+      <b><u>Use of Third Party Resources</u></b>
+   </summary>
 
 
 Web elements | Name | Use of third party resources and modifications (if any)  | Modifications (if any)
@@ -54,7 +60,10 @@ Graphic in FAQ page | faq.icon.png | The graphic is an image taken from freepik.
 </details>
 
 <details>
-<summary>References</summary>
+   <summary>
+      <b><u>References</u></b>
+   </summary>
+   
 <p>Eastman1. Cleanpng. Retrieved from 14 November 2020 from https://www.cleanpng.com/png-educational-technology-e-learning-sharable-content-601781/  
 
 Freepik. Flaticon. Retrieved from 22 November 2020 from https://www.flaticon.com/free-icon/magnifying-glass_46389?term=magnifying%20glass&page=1&position=58&related_item_id=46389  
