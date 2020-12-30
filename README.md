@@ -14,8 +14,8 @@ IIU Share Project is a platform for students to give/sell and receive used books
 <summary>
   <strong><i>Project Description</i></strong>
 </summary>
-  <p>   The <strong>IIU Share Project</strong> is inspired by the problem of unused textbooks and printed materials being left around by IIUM students. Thus, this project is initiated to provide a platform for IIUM students to properly donate or sell their used reading materials to those who wanted them. Not only that, it also helps those who are looking for reading materials for their courses at a reasonable price or for free as it is a one stop center to look for used books and other printed materials. It is hoped that with the development of the platform, the problem would be solved and helped those who utilizes the platform.  </p>
-<p>   To utilize the platform, students who want to sell or donate reading materials have to send required information to iiushare@webtech.com. The information, which includes book/material title, description, price, contact and an image will be uploaded by the admins to the website. Students who wish to have certain books or other printed materials can browse and buy them by contacting the owner of the book from the contact information displayed in the website. In short, the platform serves as an online catalogue of used books as well as other printed materials which enables the students to sell and look for their desired reading materials.</p>
+<p> The <strong>IIU Share Project</strong> is inspired by the problem of unused textbooks and printed materials being left around by IIUM students. Thus, this project is initiated to provide a platform for IIUM students to properly donate or sell their used reading materials to those who wanted them. Not only that, it also helps those who are looking for reading materials for their courses at a reasonable price or for free as it is a one stop center to look for used books and other printed materials. It is hoped that with the development of the platform, the problem would be solved and helped those who utilizes the platform.  </p>
+<p> To utilize the platform, students who want to sell or donate reading materials have to send required information to iiushare@webtech.com. The information, which includes book/material title, description, price, contact and an image will be uploaded by the admins to the website. Students who wish to have certain books or other printed materials can browse and buy them by contacting the owner of the book from the contact information displayed in the website. In short, the platform serves as an online catalogue of used books as well as other printed materials which enables the students to sell and look for their desired reading materials.</p>
 </details>
 
 <details>
@@ -37,7 +37,7 @@ Name | Contributions
 Hamidzhul Adzham<br />1625981 | Homepage, Navigation bar,<br />Javascript event handlers for modal boxes in Homepage
 Khairin Nazifah<br />1629078 | Book catalogue page,<br />Scroll back to top button,<br />Uploading 6 books in the catalogue
 Wan Fathihul Akram<br />1914131 | FAQ Page
-Irfan Rifqi<br />1919045 | Feedback page, Thank you page
+Irfan Rifqi<br />1919045 | Feedback page, Thank you page,<br />Submit feedback form with validation,<br />Javascript to confirm feedback submission
 Arief Iskandar Shaffei<br />2010047 | Printed Materials Catalog
 </details>
 
@@ -47,7 +47,7 @@ Arief Iskandar Shaffei<br />2010047 | Printed Materials Catalog
    </summary>
 
 Web elements | Name | Use of third party resources and modifications (if any)  | Modifications (if any)
--------------------- | ----------------- | --------------------------- | --------------------------
+-------------------- | -------------------- | --------------------------- | --------------------------
 Icon for search box in Homepage | Hamidzhul Adzham | The icon used is taken from flaticon.com | The graphic was sized down
 Graphic in Homepage | Hamidzhul Adzham | The graphic is an image from cleanpng.com | None.
 Modal boxes in Homepage when clicked | Hamidzhul Adzham | The codes was taken from w3schools.com | The script and style was separated
