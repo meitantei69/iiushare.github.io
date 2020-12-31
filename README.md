@@ -52,9 +52,9 @@ Web elements | Name | Use of third party resources and modifications (if any)  |
 Icon for search box in Homepage | Magnifying-glass.png | The icon used is taken from flaticon.com | The graphic was sized down
 Graphic in Homepage | image1.png | The graphic is an image from cleanpng.com | None.
 Modal boxes in Homepage when items are clicked | index.js | The codes was taken from w3schools.com | The script and style was separated from the html file
-Phone icon in Feedback page | <i class="fas fa-phone-alt"></i> | The icon is taken from Font Awesome toolkit css file | None. 
-Envelope icon in Feedback page | <i class="fas fa-envelope"></i> | The icon is taken from Font Awesome toolkit css file | None.
-Home icon in Thank You page | <i class="fas fa-home"> | The icon is taken from Font Awesome toolkit css file | None.
+Phone icon in Feedback page | <\i class="fas fa-phone-alt"></i\> | The icon is taken from Font Awesome toolkit css file | None. 
+Envelope icon in Feedback page | <\i class="fas fa-envelope"></i\> | The icon is taken from Font Awesome toolkit css file | None.
+Home icon in Thank You page | <\i class="fas fa-home"\> | The icon is taken from Font Awesome toolkit css file | None.
 IIUM logo for website logo in header | Logo.png | The graphic is taken from hiclipart.com | The graphic is resized to an appropriate size.
 Graphic in FAQ page | faq.icon.png | The graphic is an image taken from freepik.com | The graphic colour is edited to match the theme colour of the website.
 </details>
